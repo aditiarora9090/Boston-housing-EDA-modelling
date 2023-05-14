@@ -1,5 +1,5 @@
 ﻿# Boston Housing - EDA and Modelling
-![]("https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2022/06/housing-costs-story.jpg")
+![](https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2022/06/housing-costs-story.jpg)
 ## About the dataset
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of  [Boston MA](http://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html). The following describes the dataset columns:
 
